@@ -1,3 +1,5 @@
+https://www.ejtech.io/learn/yolo-on-raspberry-pi <br>
+https://www.youtube.com/watch?v=z70ZrSZNi-8 <br>
 # How to Train and Deploy YOLO Models with Ultralytics (YOLO11, YOLOv8, and YOLOv5)
 Tutorials and examples showing how to train and deploy Ultralytics YOLO models.
 
